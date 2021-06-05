@@ -4,6 +4,7 @@
   "description": "convert movie",
   "main": "index.js",
   "scripts": {
+    "build": "rollup -c",
     "serve": "node serve.js",
     "test": "npm run test"
   },
